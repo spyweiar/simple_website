@@ -16,3 +16,4 @@ To customize the website, you can modify the style.css file to change the stylin
 Contributions to this website are welcome! If you have any ideas for improvements or new features, please submit a pull request.
 # License
 This website is released under the MIT License. See the `LICENSE` file for details.
+![Untitled](https://github.com/spyweiar/simple_website/assets/131190203/b58b53e5-0d97-4846-8d62-0e5f4bdf973a)
